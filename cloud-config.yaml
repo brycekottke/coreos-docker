@@ -5,7 +5,7 @@ hostname: coreos
 
 # Set SSH Key:
 ssh_authorized_keys:
-  - <!!!INSERT_SSH_KEY_HERE!!!>
+  - <!!!INSERT_PUB_SSH_KEY_HERE!!!>
 
 coreos:
   etcd:
